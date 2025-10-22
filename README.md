@@ -23,12 +23,12 @@ Hello! I am **Manish Kumar Devarshetty**, a B.Tech Computer Science graduate wit
 
 ## Project Structure
 
-my-portfolio/
-├── assets/ # Images, icons, and other media
-├── index.html # Main landing page
-├── style.css # General styles
-├── mediaqueries.css # Responsive styling
-└── script.js # JavaScript for interactivity
+- **my-portfolio**
+- assets
+- index.html # Main landing page
+- style.css # General styles
+- mediaqueries.css # Responsive styling
+- script.js # JavaScript for interactivity
 
 
 ---
